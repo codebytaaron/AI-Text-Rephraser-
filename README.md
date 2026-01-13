@@ -1,19 +1,26 @@
-# Rephraser App
+# AI Text Rephraser
 
-A simple text rephraser for clarity, tone, and readability.
+AI Text Rephraser is a web-based application designed to adjust text for clarity, tone, and readability.
 
-## Setup
-1. Install deps:
-   npm install
+## Overview
 
-2. Create `.env.local`:
-   cp .env.local.example .env.local
-   Add your `OPENAI_API_KEY`.
+The project processes user-provided text and returns a revised version based on selected preferences, focusing on improving communication quality.
 
-3. Run:
-   npm run dev
+## Usage Notice
 
-Open http://localhost:3000
+This repository is public for visibility and reference only.
+
+Please **do not use, copy, modify, deploy, or redistribute this project without contacting me first**.
+
+If you are interested in using this project, extending it, or collaborating, reach out via the link in my bio so I can assist and approve proper usage.
 
 ## Notes
-- This is meant for rewriting for clarity/tone, not for evading detectors.
+
+Implementation details and configuration are intentionally limited in this repository.
+
+## Topics
+
+ai  
+writing  
+rephrasing  
+web  
